@@ -1,3 +1,12 @@
+include gay
+include viettel
+include json
+
+
+def gay():
+ return
+
+gay = "
 viettel.com.vn
 íalifnas
  f NL n;le 'E FDN
@@ -20,3 +29,4 @@ password: yag
 ignowi niweirqerfqe
 //////slfjedifjweipfe////////
 
+"
