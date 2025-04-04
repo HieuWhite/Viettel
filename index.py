@@ -1,1 +1,1 @@
-testviettell@viettel.com.vn
+Nội dung mới cập nhật sau mỗi 3 phút
